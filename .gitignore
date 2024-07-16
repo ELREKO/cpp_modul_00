@@ -1,2 +1,5 @@
-application/cache/*
-application/logs/*
+.vscode
+*.o
+megaphone
+Phonebook
+dream
