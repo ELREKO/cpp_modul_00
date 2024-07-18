@@ -4,8 +4,8 @@
 # What are to lern in the Beginning of Cpp 
 ## Modul Cpp 00
 
-- [What are namespace](namespace.md)
-- The most used Standart libary [iostream](iostreams.md)
+- [What are namespace](cpp00_01_namespace.md)
+- The most used Standart libary [iostream](cpp00_02_iostreams.md)
 - How looks a [class example](class_instance.md)
 - Use a [initialzation list](cpp_initialization_list.md)
 - Difference betwen [Members and Attributs](class_members_and_attributs)
