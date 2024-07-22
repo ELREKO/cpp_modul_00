@@ -6,7 +6,7 @@ This are the Rules from the mandotoy [subjeckt file](../../PDF/cpp_00_modul_subj
 
 ## Compile
 - use this flages `-Wall -Wextra -Werror`
-- use flag `-std=c++98`
+- use flag `-std=c++98` --> Only [cpp 98 Standart](cpp_stanard_lib.md) is alowed 
 
 ## Formatting 
 - exercise folder like `ex00`, `ex01`, `..`
@@ -33,3 +33,8 @@ This are the Rules from the mandotoy [subjeckt file](../../PDF/cpp_00_modul_subj
 - **[Good Practiec](cpp_rules_good_practice.md)**
 
 - **[Lerning](../Lerning/cpp00_00_lerning.md)**
+
+- **[cpp 98 Standart Libary Headers](cpp_stanard_lib.md)**
+
+- **[Standart cpp 98](../../PDF/std_cpp_98_tutorial.pdf)**
+
