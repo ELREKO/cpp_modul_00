@@ -1,4 +1,4 @@
-< [back](cpp_initialization_list.md)| [main](/) | [forward](cpp_visibality.md) >
+< [back](cpp00_04_initialization_list.md)| [main](/) | [forward](cpp00_06_visibality.md) >
 
 ---
 

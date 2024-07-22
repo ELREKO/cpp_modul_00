@@ -1,4 +1,4 @@
-< [back](class_members_and_attributs)| [main](/) | [forward](cpp_use_this_pointer.md) >
+< [back](cpp00_05_class_members_and_attributs)| [main](/) | [forward](cpp00_07_use_this_pointer.md)  >
 
 ---
 

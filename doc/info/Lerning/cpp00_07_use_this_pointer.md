@@ -1,4 +1,4 @@
-< [back](cpp_visibality.md)| [main](/) | [forward](cpp_non_membe_non_attribute.md) >
+< [back](cpp00_06_visibality.md)| [main](/) | [forward](cpp00_08_non_membe_non_attribute.md) >
 
 ---
 

@@ -1,34 +1,10 @@
-< [back](cpp_non_membe_non_attribute.md)| [main](/) | [forward](cpp_good_practice) >
+< [back](cpp00_08_non_membe_non_attribute.md)| [main](/) | [forward](cpp00_00_lerning.md) >
 
 ---
 
 # C++ Pointers to Members
 
 In C++, pointers to members are a powerful feature that allows you to work with data members and member functions of a class in a dynamic and flexible way. This document will provide a comprehensive overview of **Pointer to Data Members** and **Pointer to Member Functions**, including syntax, examples, and best practices.
-
-## Table of Contents
-
-1. [Pointer to Data Members](#pointer-to-data-members)
-   - [Concept](#concept)
-   - [Syntax](#syntax)
-   - [Example](#example)
-   - [Diagram](#diagram)
-   - [Best Practices](#best-practices)
-
-2. [Pointer to Member Functions](#pointer-to-member-functions)
-   - [Concept](#concept-1)
-   - [Syntax](#syntax-1)
-   - [Example](#example-1)
-   - [Diagram](#diagram-1)
-   - [Best Practices](#best-practices-1)
-
-3. [Combined Use](#combined-use)
-   - [Concept](#concept-2)
-   - [Syntax](#syntax-2)
-   - [Example](#example-2)
-   - [Diagram](#diagram-2)
-
-4. [Additional Resources](#additional-resources)
 
 ---
 

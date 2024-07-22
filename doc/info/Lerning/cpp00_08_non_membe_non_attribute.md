@@ -1,4 +1,4 @@
-< [back](cpp_use_this_pointer.md)| [main](/) | [forward](cpp_pointer_to_member.md)  >
+< [back](cpp00_07_use_this_pointer.md) | [main](/) | [forward](cpp00_09_pointer_to_member.md)  >
 
 ---
 
