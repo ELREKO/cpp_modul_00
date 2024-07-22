@@ -25,5 +25,9 @@ This are the Rules from the mandotoy [subjeckt file](../../PDF/cpp_00_modul_subj
 
 ## Allowed 
 - Standardt libarys in C++
-- additional files if is needed 
+- additional files if is needed
 
+--- 
+### Look also
+
+**[Good Practiec](../rulesetting/cpp_good_practice.md)**
