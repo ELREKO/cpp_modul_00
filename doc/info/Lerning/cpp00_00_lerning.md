@@ -17,8 +17,8 @@
 ---
 ### Look also
 
-- **[Rules](../rulesetting/cpp_rules.md)**
+- **[Rules](../rulesetting/cpp_rules_picine.md)**
 
-- **[Good Practiec](../rulesetting/cpp_good_practice.md)**
+- **[Good Practiec](../rulesetting/cpp_rules_good_practice.md)**
 
 

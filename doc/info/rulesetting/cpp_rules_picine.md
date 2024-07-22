@@ -1,4 +1,4 @@
-< [Back](/)
+< [Main](/) | [Lerning](../Lerning/cpp00_00_lerning.md)
 
 --- 
 # Rules for Implamantat the C++ Modul
@@ -17,7 +17,7 @@ This are the Rules from the mandotoy [subjeckt file](../../PDF/cpp_00_modul_subj
 - Output must end by a `newline`
 - Goodbye `Norminette`
 - Each class should have his ohne header 
-- Use [include guards](include_guards.md)
+- Use [include guards](cpp_rules_include_guards.md)
 
 ## Forbinden 
 - no external libarys, no `C++11`, no `Boost libraries`, also forbbiden is `printf()`, `alloc()`, `free()`
@@ -30,4 +30,6 @@ This are the Rules from the mandotoy [subjeckt file](../../PDF/cpp_00_modul_subj
 --- 
 ### Look also
 
-**[Good Practiec](../rulesetting/cpp_good_practice.md)**
+- **[Good Practiec](cpp_rules_good_practice.md)**
+
+- **[Lerning](../Lerning/cpp00_00_lerning.md)**

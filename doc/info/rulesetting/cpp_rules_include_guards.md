@@ -1,4 +1,4 @@
-< [Back](cpp_rules.md) | [Main](/)
+< [Back](cpp_rules_picine.md) | [Main](/)
 
 ---
 # Include Guards

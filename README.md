@@ -10,7 +10,9 @@ The **`cpp00`** project is designed to introduce you to the fundamental concepts
 - Overloading operators
 - Utilizing pointers and references
 
-Refer to the [Learning Overview](doc/info/Learning/Learning_overview.md) for more details.
+Referenz to the [Learning Overview](doc/info/Learning/Learning_overview.md) for more details.
+
+Please note the [rules](doc/info/rulesetting/cpp_rules_picine.md) for the cpp Picine module.
 
 ## Getting Started
 

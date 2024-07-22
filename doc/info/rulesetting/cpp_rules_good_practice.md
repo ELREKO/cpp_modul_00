@@ -1,4 +1,4 @@
-< [back](cpp_non_membe_non_attribute.md)| [main](/) | [overview Lerning](Lerning_overview.md)
+< [Back](cpp_rules_picine.md) | [Main](/) | [Lerning](../Lerning/cpp00_00_lerning.md)
 
 ---
 
